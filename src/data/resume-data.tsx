@@ -101,23 +101,21 @@ export const RESUME_DATA = {
     "Training and mentoring",
   ],
   projects: [
-  //   {
-  //     title: "Consultly",
-  //     techStack: [
-  //       "Side Project",
-  //       "TypeScript",
-  //       "Next.js",
-  //       "Vite",
-  //       "GraphQL",
-  //       "WebRTC",
-  //     ],
-  //     description: "A platform to build and grow your online business",
-  //     logo: ConsultlyLogo,
-  //     link: {
-  //       label: "consultly.com",
-  //       href: "https://consultly.com/",
-  //     },
-  //   },
+    {
+      title: "minimalist-cv",
+      techStack: [
+        "Side Project",
+        "TypeScript",
+        "Next.js",
+        "Vercel",
+      ],
+      description: "A minimalist cv page",
+      logo: ConsultlyLogo,
+      link: {
+        label: "consultly.com",
+        href: "https://consultly.com/",
+      },
+    },
   //   {
   //     title: "Monito",
   //     techStack: ["Side Project", "TypeScript", "Next.js", "Browser Extension"],

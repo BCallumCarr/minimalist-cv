@@ -28,7 +28,7 @@ export const RESUME_DATA = {
     "Data Engineer",
   summary:
     "Bringing simplicity, automation and optimisation to Data Engineering. I have a diverse background covering finance, teaching and statistics. Passionate about cloud analytics, people and surfing.",
-  avatarUrl: "https://media.licdn.com/dms/image/C4D03AQGxJ9BEL1wZYg/profile-displayphoto-shrink_800_800/0/1557851999766?e=1711584000&v=beta&t=RT-ReNPgBQSfK1Dtony2r0vGAZedLHjPBAg0iWm9S4o",
+  avatarUrl: "https://avatars.githubusercontent.com/u/29625797?s=400&u=d05441d3ca49c3a6f81a253821adb7c0cf6719aa&v=4",
   personalWebsiteUrl: "https://jarocki.me",
   contact: {
     email: "brad@astrodata.com",

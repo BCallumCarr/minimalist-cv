@@ -112,8 +112,8 @@ export const RESUME_DATA = {
       description: "A minimalist cv page",
       logo: ConsultlyLogo,
       link: {
-        label: "consultly.com",
-        href: "https://consultly.com/",
+        label: "minimalist-cv-umber.vercel.app",
+        href: "https://minimalist-cv-umber.vercel.app/",
       },
     },
   //   {
